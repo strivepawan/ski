@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250476651920",
+    "project_id": "sellkroindia-677a3",
+    "storage_bucket": "sellkroindia-677a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250476651920:android:107e476027b7dd0694ff15",
+        "android_client_info": {
+          "package_name": "com.example.skl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2nkhp_d_YDnfmI75FguNPkMMuyx8j0og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
